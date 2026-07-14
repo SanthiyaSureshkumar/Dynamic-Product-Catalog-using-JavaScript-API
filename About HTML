@@ -1,0 +1,34 @@
+What is HTML?
+  HTML (HyperText Markup Language) is the standard markup language used to create the structure of web pages. It defines the layout and organizes elements such as headings, paragraphs, images, links, buttons, and forms.
+
+Features of HTML:
+  - Creates the basic structure of a webpage
+  - Uses semantic elements for better accessibility
+  - Supports multimedia integration
+  - Works seamlessly with CSS and JavaScript
+  - Easy to learn and widely used
+
+Core Components of HTML:
+  HTML documents are built using elements, which generally consist of an opening tag, the content, and a closing tag (e.g., <p>Hello World</p>). The essential building blocks include:
+  -The Document Structure: Every valid HTML page starts with <!DOCTYPE html>, followed by <html>, <head> (which holds metadata and page titles), and <body> (which contains the visible content).
+  -Text Formatting: Tags like <h1> to <h6> define headings of decreasing importance, while <p> is for standard paragraphs.
+  -Links: The <a> (anchor) tag is used to hyperlink between pages on the internet.
+  -Multimedia: The <img> tag displays images, and <video> tags embed multimedia content.
+  -Forms: <form> tags are used to collect user inputs like text, emails, and passwords for login or registration.
+
+Advantages of HTML:
+  - Simple and easy to learn
+  - Forms the basic structure of web pages
+  - Supported by all modern web browsers
+  - Lightweight and fast to load
+  - Works seamlessly with CSS and JavaScript
+  - Uses semantic elements for better accessibility and SEO
+  - Platform-independent and open standard
+  - Easy to maintain and update
+
+Used in this Project:
+  - Page layout
+  - Navigation bar
+  - Product container
+  - Product cards
+  - Buttons and images
