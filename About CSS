@@ -1,0 +1,37 @@
+What is CSS?
+  CSS (Cascading Style Sheets) is a stylesheet language used to style and design HTML web pages. It controls the appearance of elements, including colors, fonts, spacing, layouts, and responsiveness.
+
+Features
+  - Styles and enhances web pages
+  - Separates design from content
+  - Supports responsive web design
+  - Provides animations and transitions
+  - Reusable and maintainable styles
+  - Cross-browser compatibility
+
+Components
+  - Selectors
+  - Properties
+  - Values
+  - Declarations
+  - Rulesets
+  - Media Queries
+
+Advantages
+  - Improves the visual appearance of web pages
+  - Reduces code repetition
+  - Easy to maintain and update
+  - Faster page loading with external stylesheets
+  - Supports responsive layouts
+  - Enhances user experience
+  - Works seamlessly with HTML and JavaScript
+  
+Used in This Project
+  - Page layout and structure
+  - Navigation bar styling
+  - Product card design
+  - Colors and typography
+  - Spacing and alignment
+  - Hover effects
+  - Responsive design using Flexbox/Grid
+  - Buttons and image styling
